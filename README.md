@@ -1,6 +1,6 @@
 # Next.js Firebase Form Template
 
-![CI](https://github.com/dyltom/nextjs-firebase-form-template/workflows/CI/badge.svg)
+![CI](https://github.com/Dyltom/nextjs-firebase-form-template/workflows/CI/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is a form template built with Next.js, integrating Firebase for data storage and shadcn/ui for the user interface components. It provides a customizable starting point for creating web forms that submit data to Firebase Firestore.
