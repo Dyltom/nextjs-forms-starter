@@ -1,6 +1,5 @@
 # Next.js Firebase Form Template
 
-![CI](https://github.com/Dyltom/nextjs-firebase-form-template/workflows/CI/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is a form template built with Next.js, integrating Firebase for data storage and shadcn/ui for the user interface components. It provides a customizable starting point for creating web forms that submit data to Firebase Firestore.
@@ -171,3 +170,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Continuous Integration
+
+This template is CI-ready. To set up CI for your project:
+
+1. Go to your repository on GitHub.
+2. Click on the "Actions" tab.
+3. You'll see a suggestion to set up a workflow based on your project structure.
+4. Choose a Node.js workflow that fits your needs.
+5. Customize the workflow as necessary and commit it to your repository.
+
+Once set up, you can add a CI badge to your README using the following format:
+
+```markdown
+![CI](https://github.com/your-username/your-repo-name/workflows/CI/badge.svg)
+```
+
+Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
